@@ -1,0 +1,30 @@
+.grid{
+    margin: 10px;
+}
+.one{
+    background-image:url('/assets/1.jpg');
+    /* background-clip: padding-box; */
+    height: 200px;
+    margin: 10px;
+background-color: gray;
+}
+.two{
+    height: 400px;
+    margin: 15px;  
+    background-color:bisque;
+
+}
+.three{
+    height:400px;
+    margin: 15px;  
+    background-color: bisque;
+
+}
+.li{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.text{
+    color:whitesmoke;
+    font-style: oblique; 
+}
+
